@@ -1,7 +1,9 @@
 # Sticky-Navbar
 
 ## 🎨 Project Overview
-A simple, responsive **Sticky Navbar** built using **HTML, CSS, and JavaScript**. The navbar stays fixed at the top when scrolling down the page.
+A simple, responsive **Sticky Navbar** built using **HTML, CSS, and JavaScript**. The Sticky Navbar is a simple yet effective navigation bar that remains fixed at the top of the webpage when the user scrolls. This feature improves user experience by ensuring easy access to navigation links at all times.
+
+<a href="https://arpit-sticky-navbar.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 ## Features
 
@@ -16,7 +18,6 @@ A simple, responsive **Sticky Navbar** built using **HTML, CSS, and JavaScript**
 - **CSS** - Styling and animations
 - **JavaScript** - Handling scroll events to make the navbar sticky
 
-<a href="https://arpit-sticky-navbar.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 ## 📌 Tech Stack
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html&logoColor=white)
